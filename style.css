@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family:'Oswald', sans-serif; 
+}
+
+body {
+    font-size: 100%;
+    background: linear-gradient(90deg, #A770EF, #CF8BF3 ,#f561ab );
+
+}
+
+
+.cabecalho-menu {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 7px;
+    border: 1px solid #fff;
+
+}
+.cabecalho-imagem {
+    height: 50px;
+
+}
+
+
+.conteudomeio {
+    text-align: center;
+}
+
+
+.nome {
+    font-size: 50px;
+}
+.nome h5{
+    font-size: 25px;
+    color: aliceblue;
+}
+
+.form {
+    bor
+}
